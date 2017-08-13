@@ -3,17 +3,13 @@
   "version": "2.0.1",
   "description": "A classless CSS framework",
   "license": "MIT",
-  "main": "./css/bare.min.css",
+  "main": "css",
   "author": "Eric Clemmons <eric@smarterspam.com>",
-  "contributors": [
-    "Long Sien (https://github.com/longsien)"
-  ],
+  "contributors": ["Long Sien (https://github.com/longsien)"],
   "devDependencies": {
     "np": "^2.16.0",
     "prettier": "^1.5.3"
   },
-  "files": [
-    "./css/bare.min.css"
-  ],
+  "files": ["css"],
   "repository": "git@github.com:ericclemmons/bare-css.git"
 }
