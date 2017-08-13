@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "A classless CSS framework",
   "license": "MIT",
+  "main": "./css/bare.min.css",
   "author": "Eric Clemmons <eric@smarterspam.com>",
   "contributors": [
     "Long Sien (https://github.com/longsien)"
