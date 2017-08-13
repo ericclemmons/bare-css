@@ -1,6 +1,6 @@
 {
   "name": "bare-css",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A classless CSS framework",
   "license": "MIT",
   "main": "./css/bare.min.css",
